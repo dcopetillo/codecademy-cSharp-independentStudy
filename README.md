@@ -70,3 +70,26 @@ Users should be able to interact with their own profiles in these ways:
 Create a new profile with some information
 Add hobbies
 View profile
+
+# Project 11: App Interfaces
+
+This project uses inheritance and interfaces to build a standard layout for a to-do list and password manager.
+
+# Project 12: Supernatural Inheritance
+
+In this project I developed a system in C# to track the weather that magicians in the guilds create with their spells.
+
+Pupils have a title and can create one weak wind storm.
+
+Mages have a title and can create a weak wind storm and a weak rain storm.
+
+Archmages have a title and can create a weak wind storm, a strong rain storm, and a strong lightning storm.
+
+I used inheritance to avoid duplicated code and make it more readable.
+
+# Project 13: Rover Control Center
+
+# Project 14: Programming Languages
+
+For this project I used lists and LINQ to search a database for answers.
+
